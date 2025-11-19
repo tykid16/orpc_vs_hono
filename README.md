@@ -154,7 +154,7 @@ src/
 Cloudflare Workers の設定に基づいて型を生成・同期する場合:
 
 ```bash
-npm run cf-typegen
+bun run cf-typegen
 ```
 
 生成された型を使用する場合：
