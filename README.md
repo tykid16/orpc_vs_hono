@@ -7,13 +7,13 @@ Hono + Zod + OpenAPI を使用したタスク管理 API のデモプロジェク
 ### インストール
 
 ```bash
-npm install
+bun install
 ```
 
 ### 開発サーバー起動
 
 ```bash
-npm run dev
+bun dev
 ```
 
 サーバーは `http://localhost:8787` で起動します。
@@ -21,7 +21,7 @@ npm run dev
 ### デプロイ
 
 ```bash
-npm run deploy
+bun run deploy
 ```
 
 ## 📚 API ドキュメント
